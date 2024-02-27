@@ -6,7 +6,14 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.h1Load{
+  color: mediumblue;
+  font-size: 22px;
+}
+.h2Load{
+ 
+  font-size: 42px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
